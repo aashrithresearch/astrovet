@@ -1,0 +1,12 @@
+flask
+opencv-python
+torch
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+requests
+pyyaml
+socketio
+jupyter
